@@ -1,0 +1,18 @@
+{
+    "bot-name": "SUPUN-MD",
+    "description": "SUPUM-MD has been world no01 multi device whatsapp bot...👨‍💻❤❤️",
+    "logo": "https://i.ibb.co/mVJg1Ljn/Supunmd.jpg",
+    "keywords": ["bot", "whatsapp", "automation", "supunmd", "supun"],
+    "documentation-link": "https://supun-md-main-web.pages.dev/session",
+    "owner-verification":"supunfernando022@gmail.com",
+  
+    "env": {
+      "SESSION_ID": {
+        "description": "Paste Your SUPUN-MD session",
+        "value":"",
+        "required": true
+        
+      }
+    }
+  
+  }
